@@ -1,6 +1,6 @@
 package com.company;
 import java.io.*;
-public class Main {
+public class Quicksort {
 
     public static void main(String[] args) {
         int[] intArray = new int[]{ 45,65,71,23,42,12,34};
